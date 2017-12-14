@@ -8,25 +8,25 @@ The app fetches image from your hand writing and perform number recognition in r
 
 - Xcode 9 or above 
 - iOS 11 or above
-- For training: ** Coming Soon **
+- For training: **Coming Soon...**
 
 ## Usage
 
-To use this app, open **iOS-CoreML-MNIST.xcodeproj** in Xcode and run it on a device with iOS 11.
+To use this app, open **iOS-MPSCNN-MNIST.xcodeproj** in Xcode and run it on a device with iOS 11.
 
 ## Training
 
-** Coming Soon **
+**Coming Soon...**
 
 ## Tutorial
 
-** Coming Soon **
+**Coming Soon...**
 
 ## Results
 
 The app is currently fully functional (tested on iPhone 7)
 
-** Coming Soon **
+**Coming Soon...**
 
 ## Author
 
